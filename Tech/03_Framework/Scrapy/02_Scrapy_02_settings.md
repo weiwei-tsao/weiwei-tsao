@@ -1,4 +1,4 @@
-# `Scrapy` 第二节 视频笔记: settings
+# `Scrapy` 第二节 笔记: settings
 
 - BOT_NAME: scrapy 的项目名, 会用来构造 scrapy 默认的请求 ua.
 - SPIDER_MODULES: scrapy 查找 spider 模块使用到的.
