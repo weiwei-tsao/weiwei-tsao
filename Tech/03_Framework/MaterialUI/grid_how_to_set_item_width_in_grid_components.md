@@ -12,7 +12,7 @@
 
 ## Demo:
 
-Refer to [How to nested `<Grid>` components with proper spacing](https://github.com/weiwei-tsao/weiwei-tsao/blob/main/Tech/03_Framework/React/MUI/Grid_How_To_Nested_Grid_Components.md)
+Refer to [How to nested `<Grid>` components with proper spacing](https://github.com/weiwei-tsao/weiwei-tsao/blob/main/Tech/03_Framework/MaterialUI/grid_how_to_nest_grid_components.md)
 
 ---
 
