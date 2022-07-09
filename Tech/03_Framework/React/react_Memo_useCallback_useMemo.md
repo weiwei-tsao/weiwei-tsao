@@ -20,3 +20,41 @@ React.useMemo() 用于保存复杂计算后的结果, React.callback()用来保�
 > `useCallback(() => {...}, [prop])` returns the same function instance as long as prop dependency is the same.
 
 [How to Memoize with React.useMemo()](https://dmitripavlutin.com/react-usememo-hook/)
+
+## React.useCallback() and React.useEffect()
+
+搭配使用 `useCallback` 来处理 获取数据的情况，防止获取数据的方法需要外部依赖，又不会导致在使用 `useEffect` 的时候无限循环
+
+```javascript
+const fetchMoivesHandler = React.useCallback(async () => {
+  try {
+    setIsLoading(true);
+    setError(null);
+
+    const resp = await fetch('https://swapi.dev/api/films/');
+    if (!resp.ok) {
+      throw new Error('Something went wrong!');
+    }
+
+    const data = await resp.json();
+
+    const transformedMoives = data.results.map((moive) => {
+      return {
+        id: moive.episode_id,
+        title: moive.title,
+        openingText: moive.opening_crawl,
+        releaseDate: moive.release_date,
+      };
+    });
+    setMoives(transformedMoives);
+  } catch (error) {
+    setError(error.message);
+  }
+
+  setIsLoading(false);
+}, []);
+
+React.useEffect(() => {
+  fetchMoivesHandler();
+}, [fetchMoivesHandler]);
+```
