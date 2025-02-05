@@ -12,11 +12,14 @@ I'm passionate about building **scalable, high-performance applications** and op
 - **Databases**: SQL Server, PostgreSQL, MongoDB  
 - **Tools**: Jest, Docker, Kafka, GitHub Actions  
 
-## 📊 GitHub Stats
-![Weiwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiweiCao&show_icons=true&theme=radical)
+## 📊 Recent Achievements & Contributions
+- Delivered **10+ production-ready features** for healthcare applications, impacting over **400,000 patients**.
+- Designed an automated **data integration pipeline**, improving validation accuracy by **4%** and supporting **22 clinics**.
+- Enhanced healthcare analytics by building systems that track **47+ key indicators**, improving **reporting accuracy by 33%**.
+- Reduced deployment time by **50%** with optimized CI/CD pipelines on **AWS and CircleCI**.
 
-## 🏆 GitHub Trophies
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=WeiweiCao&theme=dracula)
+## 📈 Recent Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WeiweiCao&theme=react-dark)
 
 ## 🚀 Recent Projects
 - **COVID Screening & Vaccine Reservation System** - Developed a web application to streamline COVID-19 vaccine appointments, using Django, SQL Server, and jQuery, improving efficiency and user experience.
