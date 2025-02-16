@@ -21,7 +21,7 @@ I'm passionate about building **scalable, high-performance applications** and op
 
 ## 📝 Recent Learning Notes
 
-- **[EventEmitter in Node.js](https://github.com/weiwei-tsao/blog/EventEmitter-in-Node.js.md)** - A note about EventEmitter in Node.js
+- **[EventEmitter in Node.js](https://github.com/weiwei-tsao/understanding-nodejs/blob/master/01_EventEmitter/README.md)** - A note about EventEmitter in Node.js
 
 ## 🚀 Recent Projects
 
