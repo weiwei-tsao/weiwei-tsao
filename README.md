@@ -23,6 +23,7 @@ I'm passionate about building **scalable, high-performance applications** and op
 
 - **[EventEmitter in Node.js](https://github.com/weiwei-tsao/understanding-nodejs/blob/master/01_EventEmitter/README.md)** - A note about EventEmitter in Node.js
 - **[Buffers](https://github.com/weiwei-tsao/understanding-nodejs/blob/master/02_Buffers/README.md)** - Buffers in Node.js
+- **[File System](https://github.com/weiwei-tsao/understanding-nodejs/blob/master/03_File_System/README.md)** - File System with Demos
 
 ## 🚀 Recent Projects
 
