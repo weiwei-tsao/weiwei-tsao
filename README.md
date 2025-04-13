@@ -24,6 +24,7 @@ I'm passionate about building **scalable, high-performance applications** and op
 - **[EventEmitter in Node.js](https://github.com/weiwei-tsao/understanding-nodejs/blob/master/01_EventEmitter/README.md)** - A note about EventEmitter in Node.js
 - **[Buffers](https://github.com/weiwei-tsao/understanding-nodejs/blob/master/02_Buffers/README.md)** - Buffers in Node.js
 - **[File System](https://github.com/weiwei-tsao/understanding-nodejs/blob/master/03_File_System/README.md)** - File System with Demos
+- **[Optimizing Web Performance with Progressive Loading: A Case Study](https://github.com/weiwei-tsao/project_notes/blob/main/web_application/Optimizing%20Web%20Performance%20with%20Progressive%20Loading%3A%20A%20Case%20Study.md)** - On-demand Loading
 
 ## 🚀 Recent Projects
 
