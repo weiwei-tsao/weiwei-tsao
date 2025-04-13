@@ -32,6 +32,7 @@ I'm passionate about building **scalable, high-performance applications** and op
 - **Healthcare Data Integration Pipeline** - Built an automated data ingestion pipeline using Python, Kafka, and SQL, improving data validation and accuracy by 4%.
 - **Next Generation Healthcare System** - Developed GraphQL APIs with Node.js and Apollo Server to improve data retrieval, integrated with AWS services for scalability.
 - **Browser Extension for EHR Systems** - Delivered a React-based browser extension with Material UI, enhancing healthcare providers’ efficiency by embedding wellness data directly into EHR systems.
+- **Client-contractor platform** - RESTful APIs with atomic transactions, concurrency control, role-based access, and clean architecture, supporting contracts, payments, deposits, and admin analytics with robust error handling, validation, and audit logging.
 
 ## 📫 Contact Me
 
