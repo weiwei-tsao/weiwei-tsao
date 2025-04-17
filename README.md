@@ -25,6 +25,7 @@ I'm passionate about building **scalable, high-performance applications** and op
 - **[Buffers](https://github.com/weiwei-tsao/understanding-nodejs/blob/master/02_Buffers/README.md)** - Buffers in Node.js
 - **[File System](https://github.com/weiwei-tsao/understanding-nodejs/blob/master/03_File_System/README.md)** - File System with Demos
 - **[Optimizing Web Performance with Progressive Loading: A Case Study](https://github.com/weiwei-tsao/project_notes/blob/main/web_application/Optimizing%20Web%20Performance%20with%20Progressive%20Loading%3A%20A%20Case%20Study.md)** - On-demand Loading
+- **[From Bug to Growth: How Debugging Legacy jQuery Enhanced My Development Skills](https://github.com/weiwei-tsao/project_notes/blob/main/web_application/From%20Bug%20to%20Growth%3A%20How%20Debugging%20Legacy%20jQuery%20Enhanced%20My%20Development%20Skills.md)** - Legacy Code State Management
 
 ## 🚀 Recent Projects
 
