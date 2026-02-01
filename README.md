@@ -28,6 +28,7 @@ I'm passionate about building **scalable, high-performance applications** and op
 - **[From Bug to Growth: How Debugging Legacy jQuery Enhanced My Development Skills](https://github.com/weiwei-tsao/project_notes/blob/main/web_application/From%20Bug%20to%20Growth%3A%20How%20Debugging%20Legacy%20jQuery%20Enhanced%20My%20Development%20Skills.md)** - Legacy Code State Management
 - **[Debugging Journey: Fixing a Critical Calculation Bug in Reporting](https://github.com/weiwei-tsao/project_notes/blob/main/web_application/Debugging_Journey_Fixing_a_Critical_Calculation_Bug_in_Reporting.md)**
 - **[Hidden Input Fields vs. Data Attributes: How to Choose the Right One](https://github.com/weiwei-tsao/project_notes/blob/main/web_application/hidden-inputs-vs-data-attributes.md#hidden-input-fields-vs-data-attributes-how-to-choose-the-right-one)**
+- **[Automatic Recovery from Chunk Load Errors](https://github.com/weiwei-tsao/project_notes/blob/main/web_application/Automatic_Recovery_from_Chunk_Load_Errors.md)**
 
 ## 🚀 Recent Projects
 
