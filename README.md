@@ -31,14 +31,11 @@ I'm passionate about building **scalable, high-performance applications** and op
 
 ## 🚀 Recent Projects
 
-- **Visa Appointment Scheduler** - Engineered an automated scheduling system with intelligent log analysis, IP ban mitigation strategies, and robust race condition handling for high-contention booking workflows.
-- **SafeBites Food Safety Platform** - Designed a scalable food safety tracking system facilitating restaurant inspections and user reporting, featuring secure backend order/payment processing and validated implementation plans.
-- **COVID Screening & Vaccine Reservation System** - Developed a web application to streamline COVID-19 vaccine appointments, using Django, SQL Server, and jQuery, improving efficiency and user experience.
-- **Care Gaps Analytics Engine** - Designed and implemented an analytics system in Python and MongoDB to track 47+ healthcare indicators, enhancing reporting accuracy by 33%.
-- **Healthcare Data Integration Pipeline** - Built an automated data ingestion pipeline using Python, Kafka, and SQL, improving data validation and accuracy by 4%.
-- **Next Generation Healthcare System** - Developed GraphQL APIs with Node.js and Apollo Server to improve data retrieval, integrated with AWS services for scalability.
-- **Browser Extension for EHR Systems** - Delivered a React-based browser extension with Material UI, enhancing healthcare providers’ efficiency by embedding wellness data directly into EHR systems.
-- **Client-contractor platform** - RESTful APIs with atomic transactions, concurrency control, role-based access, and clean architecture, supporting contracts, payments, deposits, and admin analytics with robust error handling, validation, and audit logging.
+- **US Visa Scheduler** - Engineered an automated bot for continuous monitoring and rescheduling of appointments, featuring stealth mode execution, smart ban detection logic, and multi-channel notifications (SendGrid/Telegram).
+- **SafeBites** - Architected an AI-powered toddler food safety platform using Gemini 1.5 Flash and Cloudflare Workers to analyze food labels for choking hazards and allergens in real-time.
+- **CareBy (Home Care Platform)** - Developed a multi-role service matching market connecting elderly clients with caregivers (PSWs/Nurses), featuring complex role management for Customers, Providers, and Admins.
+- **AmEx Welcome Bonus Monitor** - Built a sophisticated scraping tool to track high-value credit card offers, implementing smart scheduling, anti-detection measures (undetected-chromedriver), and real-time Telegram alerts.
+- **Smart Contract Event Indexer** - Designed a high-performance blockchain indexer that captures and stores smart contract events in PostgreSQL, enabling instant querying via GraphQL/REST APIs.
 
 ## 📫 Contact Me
 
