@@ -31,6 +31,8 @@ I'm passionate about building **scalable, high-performance applications** and op
 
 ## 🚀 Recent Projects
 
+- **Visa Appointment Scheduler** - Engineered an automated scheduling system with intelligent log analysis, IP ban mitigation strategies, and robust race condition handling for high-contention booking workflows.
+- **SafeBites Food Safety Platform** - Designed a scalable food safety tracking system facilitating restaurant inspections and user reporting, featuring secure backend order/payment processing and validated implementation plans.
 - **COVID Screening & Vaccine Reservation System** - Developed a web application to streamline COVID-19 vaccine appointments, using Django, SQL Server, and jQuery, improving efficiency and user experience.
 - **Care Gaps Analytics Engine** - Designed and implemented an analytics system in Python and MongoDB to track 47+ healthcare indicators, enhancing reporting accuracy by 33%.
 - **Healthcare Data Integration Pipeline** - Built an automated data ingestion pipeline using Python, Kafka, and SQL, improving data validation and accuracy by 4%.
