@@ -5,9 +5,10 @@ I'm passionate about building **scalable, high-performance applications** and op
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: TypeScript, JavaScript, Python, C#, HTML, CSS
+- **Languages**: TypeScript, JavaScript, Python, C#, HTML, CSS, Solidity
 - **Backend**: Node.js, ASP.NET, Django, GraphQL (Apollo Server), Serverless
 - **Frontend**: React, Redux, Material UI, React Router
+- **Web3 & Blockchain**: Solidity, Hardhat, ethers.js, OpenZeppelin, TypeChain
 - **Cloud & DevOps**: AWS (Lambda, S3, DynamoDB, API Gateway, SQS, OpenSearch), CI/CD (CircleCI, AWS CloudFront, Bitbucket)
 - **Databases**: SQL Server, PostgreSQL, MongoDB
 - **Tools**: Jest, Docker, Kafka, GitHub Actions
@@ -21,6 +22,7 @@ I'm passionate about building **scalable, high-performance applications** and op
 
 ## 📝 Recent Learning Notes
 
+- **[Solidity Fundamentals: Counter Contract & Core Concepts](https://github.com/weiwei-tsao/web3-playground/blob/feature/phase-1-solidity-basics/projects/01-counter/notes.md)** - Deep dive into Solidity basics: modifiers, global objects (msg/block), storage vs memory, gas optimization, and events
 - **[EventEmitter in Node.js](https://github.com/weiwei-tsao/understanding-nodejs/blob/master/01_EventEmitter/README.md)** - A note about EventEmitter in Node.js
 - **[Buffers](https://github.com/weiwei-tsao/understanding-nodejs/blob/master/02_Buffers/README.md)** - Buffers in Node.js
 - **[File System](https://github.com/weiwei-tsao/understanding-nodejs/blob/master/03_File_System/README.md)** - File System with Demos
